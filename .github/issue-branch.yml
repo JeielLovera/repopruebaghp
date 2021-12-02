@@ -1,9 +1,9 @@
 mode: auto
-defaultBranch: 'develop'
+defaultBranch: 'gozu'
 branches:
   - label: enhancement
-    name: develop
+    name: gozu
     prefix: feature/
   - label: '*'
-    name: develop
-    prefix: feature/
+    name: gozu
+    
