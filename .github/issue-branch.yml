@@ -1,2 +1,9 @@
 mode: auto
 defaultBranch: 'develop'
+branches:
+  - label: enhancement
+    name: develop
+    prefix: feature/
+  - label: '*'
+    name: develop
+    prefix: feature/
